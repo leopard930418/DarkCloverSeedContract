@@ -1,0 +1,11 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+autocommit.yml
+LAST_UPDATED
+
+#Hardhat files
+cache
+artifacts
